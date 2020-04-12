@@ -1,5 +1,4 @@
 # Matplotlib
-
 Python codes for using matplotlib packages for data visualization.
 
 Tools used:
